@@ -21,6 +21,6 @@
     "sequelize": "^6.15.1"
   },
   "devDependencies": {
-    "jest": "^27.5.0"
+    "jest": "^27.5.1"
   }
 }
